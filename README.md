@@ -10,7 +10,7 @@
 
 <a><strong>Последовательность для запуска проекта:</strong></p>
 <ol>
- <li>Установить архив uchet_pacientov.rar</li>
+ <li>Скачать архив poliklinika.rar</li>
  <li>Распаковать</li>
  <li>Открыть папку с проектом</li>
  <li>Запустить файл bolnica.sln </li>
